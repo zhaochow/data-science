@@ -12,4 +12,6 @@ Repository describing my adventure into data science. It compiles my projects as
 
 ### NLP (Natural Language Processing)
 
+- [Toxic Comment Classification Challenge](https://github.com/zhaochow/data-science/blob/master/nlp/toxic-comment-classification.ipynb) ([Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)): Detecting the type(s) of toxicity (e.g. threats, obscenity, insults, and identity-based hate) of a comment using a LSTM model without pre-trained embeddings.
+
 ## Miscellaneous
