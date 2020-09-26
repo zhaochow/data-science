@@ -18,4 +18,8 @@ Repository describing my adventure into data science. It compiles my projects as
 
 - [Toxic Comment Classification Challenge](nlp/toxic_comment_classification.ipynb) ([Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)): Detecting the type(s) of toxicity (e.g. threats, obscenity, insults, and identity-based hate) of a comment using a LSTM model without pre-trained embeddings.
 
+### Recommendation System
+
+- [Netflix Movie Recommendation](recsys/netflix_movie_recommendation.ipynb): Recommend Netflix movies using collaborative filtering (SVD).
+
 ## Miscellaneous
