@@ -8,6 +8,8 @@ Repository describing my adventure into data science. It compiles my projects as
 
 ### Regression
 
+- [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](regression/openvaccine_covid.ipynb) ([Kaggle](https://www.kaggle.com/c/stanford-covid-vaccine)): Predict likely degradation rates at each base of an RNA molecule using a blending of LSTM & GRU models.
+
 ### CV (Computer Vision)
 
 - [Imagenette Classification](cv/imagenette_classification.ipynb): Classify pictures from [Imagenette](https://github.com/fastai/imagenette) under various constraints (e.g. 128px images, 5 epochs, training from scratch).
